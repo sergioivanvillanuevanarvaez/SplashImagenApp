@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SplashImagenApp</string>
+    <string name="titulo_principal">Sergio</string>
+    <string name="subtitulo_principal">Bienvenido a mi aplicación</string>
+    <string name="estado_cargando">Cargando...</string>
+
+</resources>

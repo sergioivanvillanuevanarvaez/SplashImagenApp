@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="azul_fondo">#050B18</color>
+    <color name="azul_principal">#0066FF</color>
+    <color name="azul_claro">#00A8FF</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+
+</resources>
